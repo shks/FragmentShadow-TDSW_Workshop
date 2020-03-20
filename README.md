@@ -5,7 +5,9 @@ Sample files for FragmentShadow-TDSW Workshop
 
 [Shunichi Kasahara](https://shunichikasahara.com/) and [Satoru Higa](http://satoruhiga.com/) have been working on Fragment Shadow ( Interactive installation of Optical Shadow with Multiple Projectors). In the exhibition in [Ginza Sony Park](https://www.ginzasonypark.jp/), we created the installation of [Fragment Shadow](https://shunichikasahara.com/portfolio/fragment-shadow/) with 16 projectors and 13 meters white wall. At the end of the exhibition of Fragment Shadow in Ginza Sony Park, we held the [online - but interactive - workshop](https://tdsw023.peatix.com/) about technology and creation of Fragment Shadow. We live-streamed the two lecture sessions with myself and Satoru Higa, and in the latter half session, we tried an interesting online workshop approach. We collected TouchDesigner project files from audiences and played them with our system, and we also live-streamed its visual experience in real-time. As a result, it was quite a valuable workshop with a mixture of lectures and the workshop, onsite and online. You can see the [recorded streaming](https://www.youtube.com/watch?v=-UB1H2MAsvQ&t=).
 
-
+# Sample Files 
+- Works with TouchDesigner 2020.20020 (Maybe upper too)
+- Sample files contains 4 layer examples and hidden texture image.
 
 
 ## サンプルファイルについて
